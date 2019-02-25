@@ -29,7 +29,7 @@
     "rollup": "latest",
     "rollup-plugin-commonjs": "^8.2.6",
     "rollup-plugin-node-builtins": "latest",
-    "rollup-plugin-node-resolve": "^1.7.1"
+    "rollup-plugin-node-resolve": "^4.0.1"
   },
   "dependencies": {
     "asn1js": "latest",
